@@ -1,4 +1,0 @@
-
-SMTP_ADDRESS="smtp.gmail.com"
-EMAIL_ADDRESS="angela@email.com"
-EMAIL_PASSWORD="Use_an_App_Password_from_your_email_provid
